@@ -4,10 +4,11 @@
     
 }
 
-body{
+body {
     background-color: #5da2ea;
     color: #fff;
 }
+
 header{
     background-color: #252423;
     display: flex;
